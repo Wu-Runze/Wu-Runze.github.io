@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Science and Technology of China, 2013
-* Visiting Student in Advanced Analytics Institute, University of Technology, Sydney, Australia Jan 2016 - Jan 2017 (Supervisor: [Prof. Guandong Xu](https://profiles.uts.edu.au/Guandong.Xu))
-* Ph.D in Computer Science, University of Science and Technology of China, 2018 (Supervisor: [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/))
 * PostDoc in Computer Science, Zhejiang University, Jul 2021 - Jul 2023 (expected) (Supervisor: [Prof. Yunjun Gao](https://mypage.zju.edu.cn/gaoyj_cn))
+* Ph.D in Computer Science, University of Science and Technology of China, 2018 (Supervisor: [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/))
+* Visiting Student in Advanced Analytics Institute, University of Technology, Sydney, Australia Jan 2016 - Jan 2017 (Supervisor: [Prof. Guandong Xu](https://profiles.uts.edu.au/Guandong.Xu))
+* B.S. in Computer Science, University of Science and Technology of China, 2013
+
 
 Work experience
 ======
-* Aug 2018 - Nov 2020: AI Researcher, Fuxi AI Lab, NetEase Games
 * Nov 2020 - Present: Chief AI Researcher, Fuxi AI Lab, NetEase Games
+* Aug 2018 - Nov 2020: AI Researcher, Fuxi AI Lab, NetEase Games
+
 
   
 Skills
