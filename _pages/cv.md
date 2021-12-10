@@ -11,37 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Science and Technology of China, 2013
+* Visiting Student in Advanced Analytics Institute, University of Technology, Sydney, Australia Jan 2016 - Jan 2017 (Supervisor: [Prof. Guandong Xu](https://profiles.uts.edu.au/Guandong.Xu))
+* Ph.D in Computer Science, University of Science and Technology of China, 2018 (Supervisor: [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), [Prof. Qi Liu](http://staff.ustc.edu.cn/~qiliuql/))
+* PostDoc in Computer Science, Zhejiang University, Jul 2021 - Jul 2023 (expected) (Supervisor: [Prof. Yunjun Gao](https://mypage.zju.edu.cn/gaoyj_cn))
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2018 - Nov 2020: AI Researcher, Fuxi AI Lab, NetEase Games
+* Nov 2020 - Present: Chief AI Researcher, Fuxi AI Lab, NetEase Games
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Determined Research Focus for ML/DM and Data Science
+  - User Behavior Modeling
+  - Anomaly Detection
+  - Explainable AI & Causal Inference
+  - Combinational Optimization
+  - Data Quality & Crowd Sourcing 
+  - Other classical DM task like time series
+* Good Coding (Python/Matlab/CPP)
+* Sound English Writing & Reading
+* Basic Oral English
+* Managing Research Team
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -53,7 +54,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* PC/SPC Reviewer for SIGKDD2021/2022, TheWebConf2020/2021/2022, AAAI2021/2022, IJCAI2021/2022, ICDM2020/2021, CIKM2019/2021, SDM2022, etc
+* Journal Reviewer for IEEE Trans. on Games, Cell Patterns
+* IEEE BigData Cup 2021: RL4RS Challenge & Workshop Chair
