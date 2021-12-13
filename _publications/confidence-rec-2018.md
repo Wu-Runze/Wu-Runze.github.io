@@ -1,7 +1,7 @@
 ---
 title: "Confidence-aware matrix factorization for recommender systems"
 collection: publications
-permalink: /publication/confidence-rec-2018.md
+permalink: /publications/confidence-rec-2018.md
 excerpt: 'This paper is about modeling the confidence of recommender system by using the matrix factorization methods.'
 date: 2018-04-25
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI`2018)'
