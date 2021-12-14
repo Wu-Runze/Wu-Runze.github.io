@@ -1,7 +1,7 @@
 ---
 title: "Tracking knowledge proficiency of students with educational priors"
 collection: publications
-permalink: /publications/track-stu-prof-2017.md
+permalink: /publications/track-stu-prof-2017
 excerpt: 'This paper is about tracking student knowledge proficiency with educational priors.'
 date: 2017-11-06
 venue: 'Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM`2017)'

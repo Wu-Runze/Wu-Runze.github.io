@@ -1,7 +1,7 @@
 ---
 title: "Collaborative learning team formation: a cognitive modeling perspective"
 collection: publications
-permalink: /publications/team-formation-2016.md
+permalink: /publications/team-formation-2016
 excerpt: 'This paper is about setting up learning teams for better collaborative learning.'
 date: 2016-04-16
 venue: 'International Conference on Database Systems for Advanced Applications (DASFAA`2016)'

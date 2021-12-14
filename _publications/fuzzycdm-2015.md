@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Modelling for Predicting Examinee Performance"
 collection: publications
-permalink: /publications/fuzzycdm-2015.md
+permalink: /publications/fuzzycdm-2015
 excerpt: 'This paper is about cognitive modeling for K-12 students.'
 date: 2015-06-23
 venue: 'Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI`2015)'

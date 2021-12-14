@@ -1,7 +1,7 @@
 ---
 title: "Fuzzy cognitive diagnosis for modelling examinee performance"
 collection: publications
-permalink: /publications/fuzzycdm-2018.md
+permalink: /publications/fuzzycdm-2018
 excerpt: 'This paper is the extented work from previous IJCAI 2015 work.'
 date: 2018-01-31
 venue: 'ACM Transactions on Intelligent Systems and Technology (TIST)'

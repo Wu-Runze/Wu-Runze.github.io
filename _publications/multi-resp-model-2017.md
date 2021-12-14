@@ -1,7 +1,7 @@
 ---
 title: "Knowledge or gaming? Cognitive modelling based on multiple-attempt response"
 collection: publications
-permalink: /publications/multi-resp-model-2017.md
+permalink: /publications/multi-resp-model-2017
 excerpt: 'This paper is about cognitively modeling K-12 students in multiple-response settings.'
 date: 2017-04-03
 venue: 'Proceedings of the 26th International Conference on World Wide Web Companion (WWW`2017)'
