@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Runze Wu|吴润泽"
+title: "Runze Wu - 吴润泽"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,9 +11,9 @@ redirect_from:
 
 Welcome to my home page!!
 
-Here is my [CV&Contact](_pages/cv.md).
+Here is my [CV&Contact](/cv).
 
-Here is the full list of my [publications](_pages/publications.md).
+Here is the full list of my [publications](/publications).
 
 I'm open to discussion and collaboration of various types!
 
