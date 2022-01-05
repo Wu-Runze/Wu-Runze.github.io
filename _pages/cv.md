@@ -74,30 +74,30 @@ Talks
 - **Apr 2017** WWW`2017 Oral Presentation *Knowledge or gaming? Cognitive modelling based on multiple-attempt response*
 - **Aug 2015** IJCAI`2015 Oral&Poster Presentation *Cognitive modelling for predicting examinee performance*
 
-Publications
+Selected Publications
 ======
 
-**Selected Journals**
-- Qiling Deng, Minghao Zhao, Kai Wang, Runze Wu\*, Xudong Shen, Jianrong Tao and Changjie Fan, *"Find Your Organization in MMORPGs"*, **IEEE Trans. on Games** 
+**Journals**
+* Qiling Deng, Minghao Zhao, Kai Wang, Runze Wu\*, Xudong Shen, Jianrong Tao and Changjie Fan, *"Find Your Organization in MMORPGs"*, **IEEE Trans. on Games** 
 
-- Minghao Zhao, Qilin Deng, Kai Wang, Runze Wu\*, Jianrong Tao, Changjie Fan, Liang Chen and Peng Cui, *"Bilateral Filtering Graph Convolutional Network for Social Recommendation in Power-Law Networks"*, **ACM TOIS** 
+* Minghao Zhao, Qilin Deng, Kai Wang, Runze Wu\*, Jianrong Tao, Changjie Fan, Liang Chen and Peng Cui, *"Bilateral Filtering Graph Convolutional Network for Social Recommendation in Power-Law Networks"*, **ACM TOIS** 
 
-- Qi Liu, Runze Wu, Enhong Chen, Guandong Xu, Yu Su, Zhigang Chen and Guoping Hu, *Fuzzy cognitive diagnosis for modelling examinee performance*, **ACM TIST**
+* Qi Liu, Runze Wu, Enhong Chen, Guandong Xu, Yu Su, Zhigang Chen and Guoping Hu, *Fuzzy cognitive diagnosis for modelling examinee performance*, **ACM TIST**
 
-**Selected Conferences**
-- Chuang Zhao, Hongke Zhao, Runze Wu\*, Qiling Deng, Yu Ding, Jianrong Tao and Changjie Fan, *Multi-dimensional Prediction of Guild Health in Online Games: A Stability-AwareMulti-task Learning Approach*, **AAAI'2022** 
+**Conferences**
+* Chuang Zhao, Hongke Zhao, Runze Wu\*, Qiling Deng, Yu Ding, Jianrong Tao and Changjie Fan, *Multi-dimensional Prediction of Guild Health in Online Games: A Stability-AwareMulti-task Learning Approach*, **AAAI'2022** 
 
-- Sha Zhao, Junwei Fang, Shiwei Zhao, Runze Wu\*, Jianrong Tao, Shijian Li and Gang Pan, *T-Detector: A Trajectory based Pre-trained Model for Game Bot Detection in MMORPGs*, **ICDE'2022** 
+* Sha Zhao, Junwei Fang, Shiwei Zhao, Runze Wu\*, Jianrong Tao, Shijian Li and Gang Pan, *T-Detector: A Trajectory based Pre-trained Model for Game Bot Detection in MMORPGs*, **ICDE'2022** 
 
-- Manhu Qu, Jie Huang, Hao Deng, Runze Wu\*, Xudong Shen, Jianrong Tao and Tangjie Lyu, *EasySM: A data-driven intelligent decision support system for server merge*, **AAAI'2022 Demo** 
+* Manhu Qu, Jie Huang, Hao Deng, Runze Wu\*, Xudong Shen, Jianrong Tao and Tangjie Lyu, *EasySM: A data-driven intelligent decision support system for server merge*, **AAAI'2022 Demo** 
 
-- Qiling Deng, Kai Wang, Minghao Zhao, Runze Wu\*, Yu Ding, Zhene Zou, Yue Shang, Jianrong Tao and Changjie Fan, *Build Your Own Bundle - A Neural Combinatorial Optimization Method*, **ACMMM'2021** 
+* Qiling Deng, Kai Wang, Minghao Zhao, Runze Wu\*, Yu Ding, Zhene Zou, Yue Shang, Jianrong Tao and Changjie Fan, *Build Your Own Bundle - A Neural Combinatorial Optimization Method*, **ACMMM'2021** 
 
-- Qiling Deng & Hao Li, Kai Wang, Zhipeng Hu, Runze Wu\*, Linxia Gong, Jianrong Tao, Changjie Fan and Peng Cui, *"Globally Optimized Matchmaking in Online Games"*, **KDD'2021** 
+* Qiling Deng & Hao Li, Kai Wang, Zhipeng Hu, Runze Wu\*, Linxia Gong, Jianrong Tao, Changjie Fan and Peng Cui, *"Globally Optimized Matchmaking in Online Games"*, **KDD'2021** 
 
-- Runze Wu, Guandong Xu, Enhong Chen, Qi Liu and Wan Ng, *Knowledge or gaming? Cognitive modelling based on multiple-attempt response*, **WWW'2017**
+* Runze Wu, Guandong Xu, Enhong Chen, Qi Liu and Wan Ng, *Knowledge or gaming? Cognitive modelling based on multiple-attempt response*, **WWW'2017**
 
-- Runze Wu, Qi Liu, Yuping Liu, Enhong Chen, Yu Su, Zhigang Chen and Guoping Hu, *Cognitive modelling for predicting examinee performance*, **IJCAI'2015**
+* Runze Wu, Qi Liu, Yuping Liu, Enhong Chen, Yu Su, Zhigang Chen and Guoping Hu, *Cognitive modelling for predicting examinee performance*, **IJCAI'2015**
 
 "\*" denotes corresponding author. Please refer to the full list of my publications [here](/publications).
 
