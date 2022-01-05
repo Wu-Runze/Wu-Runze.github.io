@@ -98,7 +98,7 @@ Selected Conference Publications
 
 - Runze Wu, Qi Liu, Yuping Liu, Enhong Chen, Yu Su, Zhigang Chen and Guoping Hu, *Cognitive modelling for predicting examinee performance*, **IJCAI'2015**
 
-Please refer to the full list of my [publications](/publications).
+Please refer to the full list of my publications [here](/publications).
 
 <!--  
 
