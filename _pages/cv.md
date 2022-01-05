@@ -44,17 +44,12 @@ Working Research Topics
 - XAI & Causal Inference
 - Combinational Optimization with ML methods
 - Data Quality
+- Self-/Un- supervised Anomaly Detection
 
   
 Skills
 ======
-* Determined Research Focus for ML/DM and Data Science
-  - User Behavior Modeling
-  - Anomaly Detection
-  - Explainable AI & Causal Inference
-  - Combinational Optimization
-  - Data Quality & Crowd Sourcing 
-  - Other classical DM task like time series
+* Research Focus for ML/DM and Data Science
 * Good Coding (Python/Matlab/CPP)
 * Sound English Writing & Reading
 * Basic Oral English
