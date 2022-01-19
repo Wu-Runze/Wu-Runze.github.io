@@ -80,6 +80,12 @@ Selected Publications
 * Qi Liu, Runze Wu, Enhong Chen, Guandong Xu, Yu Su, Zhigang Chen and Guoping Hu, *Fuzzy cognitive diagnosis for modelling examinee performance*, **ACM TIST**
 
 **Conferences**
+- Xianyang Qi, Jiashu Pu, Shiwei Zhao, Jianrong Tao and Runze Wu\*, *A GNN-Enhanced Game Bot Detection Model for MMORPGs*, **PAKDD'2022** 
+
+- Jiashu Pu, Jianshi Lin, Xiaoxi Mao, Xudong Shen, Jianrong Tao, Yue Shang and Runze Wu\* *Unsupervised representation learning of player behavioral data with Confidence Guided Masking*, **WWW'2022** 
+
+- Chuang Zhao, Hongke Zhao, Yong Ge, Runze Wu\* and Xudong Shen, *Winning Tracker: A New Model for Real-time Winning Prediction in MOBA Games*, **WWW'2022** 
+
 * Chuang Zhao, Hongke Zhao, Runze Wu\*, Qiling Deng, Yu Ding, Jianrong Tao and Changjie Fan, *Multi-dimensional Prediction of Guild Health in Online Games: A Stability-AwareMulti-task Learning Approach*, **AAAI'2022** 
 
 * Sha Zhao, Junwei Fang, Shiwei Zhao, Runze Wu\*, Jianrong Tao, Shijian Li and Gang Pan, *T-Detector: A Trajectory based Pre-trained Model for Game Bot Detection in MMORPGs*, **ICDE'2022** 
